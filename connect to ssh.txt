@@ -1,1 +1,0 @@
-ssh -i "notes-api.pem" ubuntu@ec2-54-255-162-115.ap-southeast-1.compute.amazonaws.com

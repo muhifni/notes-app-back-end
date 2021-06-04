@@ -116,7 +116,7 @@ const deleteNoteByIdHandler = (request, h) => {
     notes.splice(index, 1);
     const response = h.response({
       status: 'success',
-      message: 'Catatan berhasil ditambahkan :D',
+      message: 'Horee.. Catatan berhasil dihapus :D',
     });
     response.code(200);
     return response;
